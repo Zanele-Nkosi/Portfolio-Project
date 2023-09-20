@@ -112,6 +112,10 @@ content h3 {
   padding: 120px 60px 0;
 }
 
+/* .navbar {
+  display: flex-end;
+  justify-content: between;
+} */
 nav {
   padding: 20px 0;
 }
